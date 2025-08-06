@@ -1,4 +1,4 @@
-#📘 CRUD App – React + Material UI + JSON Server
+CRUD App – React + Material UI + JSON Server
 This is a simple yet fully functional CRUD (Create, Read, Update, Delete) web application built using React for the frontend and JSON Server as a mock backend API. The UI is styled using Material UI (MUI) components, and Axios is used for handling API requests.
 
 🔧 Tech Stack
